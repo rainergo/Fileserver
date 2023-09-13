@@ -1,5 +1,5 @@
 # Fileserver
-Host to public files on Github that can be downloaded by anyone: [HowTo](https://www.labnol.org/internet/free-file-hosting-github/29092/)
+Host public files on Github that can be downloaded by anyone: [HowTo](https://www.labnol.org/internet/free-file-hosting-github/29092/)
 
 
 # To make PDFs downloadable:
